@@ -17,7 +17,7 @@ struct GradientShaderView: View {
             .frame(width: 300, height: 300)
     }
 }
-//hello
+
 
 struct CheckerboardView: View {
     var body: some View {
